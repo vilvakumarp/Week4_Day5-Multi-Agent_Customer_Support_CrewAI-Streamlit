@@ -1,0 +1,9 @@
+crewai
+crewai-tools
+streamlit
+python-dotenv
+chromadb
+sentence-transformers
+pypdf
+langchain-community
+langchain-text-splitters
